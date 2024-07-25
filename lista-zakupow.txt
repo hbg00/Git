@@ -1,1 +1,2 @@
 produkt 1.00
+produkt 2.30
